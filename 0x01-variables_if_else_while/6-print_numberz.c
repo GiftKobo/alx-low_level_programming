@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - Prof Entry point
+ * main - Prog Entry point
  */
 
 int main(void)
