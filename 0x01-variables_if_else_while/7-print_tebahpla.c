@@ -6,8 +6,8 @@
 
 int main(void)
 {
-	char c
-		;
+	char c;
+
 	int d;
 
 	c = 'a';
